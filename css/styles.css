@@ -1,0 +1,16 @@
+body {
+    background-image: url("http://i.huffpost.com/gen/1760918/images/o-HIGH-SCHOOL-BUILDING-facebook.jpg");
+    color: white;
+    height: 100%;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h2 {
+
+    font-size: 3.4em;
+    color: #00FFFF;
+}
